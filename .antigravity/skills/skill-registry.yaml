@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: palestinean-restitution-roadmap-and-qsf-trust-execution
-  name: Palestinean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/palestinean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ps_001
+    name: Palestine Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_002
+    name: Palestine Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_003
+    name: Palestine Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_004
+    name: Palestine Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_005
+    name: Palestine Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_006
+    name: Palestine Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_007
+    name: Palestine Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_008
+    name: Palestine Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_009
+    name: Palestine Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_010
+    name: Palestine Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_011
+    name: Palestine Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_012
+    name: Palestine Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_013
+    name: Palestine Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_014
+    name: Palestine Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_015
+    name: Palestine Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_016
+    name: Palestine Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_017
+    name: Palestine Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_018
+    name: Palestine Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_019
+    name: Palestine Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_020
+    name: Palestine Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_021
+    name: Palestine Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_022
+    name: Palestine Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_023
+    name: Palestine Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_024
+    name: Palestine Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_025
+    name: Palestine Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_026
+    name: Palestine Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_027
+    name: Palestine Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_028
+    name: Palestine Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_029
+    name: Palestine Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_030
+    name: Palestine Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_031
+    name: Palestine Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_032
+    name: Palestine Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_033
+    name: Palestine Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_034
+    name: Palestine Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_035
+    name: Palestine Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_036
+    name: Palestine Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_037
+    name: Palestine Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_038
+    name: Palestine Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_039
+    name: Palestine Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_040
+    name: Palestine Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_041
+    name: Palestine Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_042
+    name: Palestine Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_043
+    name: Palestine Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_044
+    name: Palestine Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_045
+    name: Palestine Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_046
+    name: Palestine Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_047
+    name: Palestine Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_048
+    name: Palestine Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_049
+    name: Palestine Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_050
+    name: Palestine Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_051
+    name: Palestine Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_052
+    name: Palestine Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_053
+    name: Palestine Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_054
+    name: Palestine Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_055
+    name: Palestine Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_056
+    name: Palestine Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_057
+    name: Palestine Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_058
+    name: Palestine Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_059
+    name: Palestine Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_060
+    name: Palestine Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_061
+    name: Palestine Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_062
+    name: Palestine Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_063
+    name: Palestine Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_064
+    name: Palestine Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_065
+    name: Palestine Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_066
+    name: Palestine Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_067
+    name: Palestine Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_068
+    name: Palestine Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_069
+    name: Palestine Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_070
+    name: Palestine Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_071
+    name: Palestine Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_072
+    name: Palestine Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_073
+    name: Palestine Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_074
+    name: Palestine Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_075
+    name: Palestine Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_076
+    name: Palestine Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_077
+    name: Palestine Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_078
+    name: Palestine Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_079
+    name: Palestine Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_080
+    name: Palestine Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_081
+    name: Palestine Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_082
+    name: Palestine Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_083
+    name: Palestine Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_084
+    name: Palestine Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_085
+    name: Palestine Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_086
+    name: Palestine Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_087
+    name: Palestine Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_088
+    name: Palestine Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_089
+    name: Palestine Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_090
+    name: Palestine Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_091
+    name: Palestine Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_092
+    name: Palestine Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_093
+    name: Palestine Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_094
+    name: Palestine Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_095
+    name: Palestine Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_096
+    name: Palestine Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_097
+    name: Palestine Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_098
+    name: Palestine Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_099
+    name: Palestine Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_100
+    name: Palestine Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_101
+    name: Palestine Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_102
+    name: Palestine Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_103
+    name: Palestine Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_104
+    name: Palestine Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_105
+    name: Palestine Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_106
+    name: Palestine Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_107
+    name: Palestine Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_108
+    name: Palestine Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_109
+    name: Palestine Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_110
+    name: Palestine Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_111
+    name: Palestine Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_112
+    name: Palestine Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_113
+    name: Palestine Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_114
+    name: Palestine Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_115
+    name: Palestine Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_116
+    name: Palestine Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_117
+    name: Palestine Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_118
+    name: Palestine Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_119
+    name: Palestine Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_120
+    name: Palestine Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_121
+    name: Palestine Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_122
+    name: Palestine Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_123
+    name: Palestine Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_124
+    name: Palestine Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_125
+    name: Palestine Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_126
+    name: Palestine Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_127
+    name: Palestine Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_128
+    name: Palestine Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_129
+    name: Palestine Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_130
+    name: Palestine Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_131
+    name: Palestine Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_132
+    name: Palestine Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_133
+    name: Palestine Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_134
+    name: Palestine Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_135
+    name: Palestine Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_136
+    name: Palestine Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_137
+    name: Palestine Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_138
+    name: Palestine Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_139
+    name: Palestine Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_140
+    name: Palestine Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_141
+    name: Palestine Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_142
+    name: Palestine Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_143
+    name: Palestine Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_144
+    name: Palestine Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_145
+    name: Palestine Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_146
+    name: Palestine Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_147
+    name: Palestine Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_148
+    name: Palestine Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_149
+    name: Palestine Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_150
+    name: Palestine Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_151
+    name: Palestine Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_152
+    name: Palestine Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_153
+    name: Palestine Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_154
+    name: Palestine Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_155
+    name: Palestine Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_156
+    name: Palestine Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_157
+    name: Palestine Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_158
+    name: Palestine Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_159
+    name: Palestine Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_160
+    name: Palestine Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_161
+    name: Palestine Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_162
+    name: Palestine Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_163
+    name: Palestine Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_164
+    name: Palestine Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_165
+    name: Palestine Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_166
+    name: Palestine Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_167
+    name: Palestine Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_168
+    name: Palestine Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_169
+    name: Palestine Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_170
+    name: Palestine Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_171
+    name: Palestine Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_172
+    name: Palestine Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_173
+    name: Palestine Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_174
+    name: Palestine Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_175
+    name: Palestine Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_176
+    name: Palestine Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_177
+    name: Palestine Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_178
+    name: Palestine Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_179
+    name: Palestine Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_180
+    name: Palestine Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_181
+    name: Palestine Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_182
+    name: Palestine Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_183
+    name: Palestine Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_184
+    name: Palestine Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_185
+    name: Palestine Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_186
+    name: Palestine Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_187
+    name: Palestine Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_188
+    name: Palestine Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_189
+    name: Palestine Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_190
+    name: Palestine Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_191
+    name: Palestine Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_192
+    name: Palestine Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_193
+    name: Palestine Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_194
+    name: Palestine Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_195
+    name: Palestine Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_196
+    name: Palestine Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_197
+    name: Palestine Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_198
+    name: Palestine Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_199
+    name: Palestine Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_200
+    name: Palestine Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_201
+    name: Palestine Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_202
+    name: Palestine Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_203
+    name: Palestine Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_204
+    name: Palestine Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_205
+    name: Palestine Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_206
+    name: Palestine Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_207
+    name: Palestine Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_208
+    name: Palestine Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_209
+    name: Palestine Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_210
+    name: Palestine Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_211
+    name: Palestine Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_212
+    name: Palestine Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_213
+    name: Palestine Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_214
+    name: Palestine Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_215
+    name: Palestine Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_216
+    name: Palestine Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_217
+    name: Palestine Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_218
+    name: Palestine Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_219
+    name: Palestine Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_220
+    name: Palestine Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_221
+    name: Palestine Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_222
+    name: Palestine Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_223
+    name: Palestine Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_224
+    name: Palestine Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_225
+    name: Palestine Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_226
+    name: Palestine Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_227
+    name: Palestine Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_228
+    name: Palestine Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_229
+    name: Palestine Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_230
+    name: Palestine Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_231
+    name: Palestine Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_232
+    name: Palestine Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_233
+    name: Palestine Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_234
+    name: Palestine Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_235
+    name: Palestine Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_236
+    name: Palestine Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_237
+    name: Palestine Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_238
+    name: Palestine Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_239
+    name: Palestine Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_240
+    name: Palestine Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_241
+    name: Palestine Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_242
+    name: Palestine Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_243
+    name: Palestine Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_244
+    name: Palestine Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_245
+    name: Palestine Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_246
+    name: Palestine Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_247
+    name: Palestine Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_248
+    name: Palestine Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_249
+    name: Palestine Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_250
+    name: Palestine Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_251
+    name: Palestine Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ps_252
+    name: Palestine Skill 252
+    status: ACTIVE_SCAFFOLD

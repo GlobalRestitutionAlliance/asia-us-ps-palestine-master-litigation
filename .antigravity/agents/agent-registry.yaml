@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-palestine-canal-and-intervention-historian
-  name: Palestine Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-palestine-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ps_001
+    name: Palestine Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_002
+    name: Palestine Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_003
+    name: Palestine Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_004
+    name: Palestine Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_005
+    name: Palestine Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_006
+    name: Palestine Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_007
+    name: Palestine Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_008
+    name: Palestine Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_009
+    name: Palestine Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_010
+    name: Palestine Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_011
+    name: Palestine Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_012
+    name: Palestine Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_013
+    name: Palestine Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_014
+    name: Palestine Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_015
+    name: Palestine Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_016
+    name: Palestine Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_017
+    name: Palestine Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_018
+    name: Palestine Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_019
+    name: Palestine Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_020
+    name: Palestine Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_021
+    name: Palestine Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_022
+    name: Palestine Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_023
+    name: Palestine Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_024
+    name: Palestine Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_025
+    name: Palestine Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_026
+    name: Palestine Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_027
+    name: Palestine Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_028
+    name: Palestine Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_029
+    name: Palestine Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_030
+    name: Palestine Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_031
+    name: Palestine Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_032
+    name: Palestine Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_033
+    name: Palestine Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_034
+    name: Palestine Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_035
+    name: Palestine Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_036
+    name: Palestine Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_037
+    name: Palestine Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_038
+    name: Palestine Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_039
+    name: Palestine Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_040
+    name: Palestine Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_041
+    name: Palestine Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_042
+    name: Palestine Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_043
+    name: Palestine Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_044
+    name: Palestine Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_045
+    name: Palestine Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_046
+    name: Palestine Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_047
+    name: Palestine Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_048
+    name: Palestine Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_049
+    name: Palestine Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_050
+    name: Palestine Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_051
+    name: Palestine Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_052
+    name: Palestine Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_053
+    name: Palestine Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_054
+    name: Palestine Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_055
+    name: Palestine Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_056
+    name: Palestine Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_057
+    name: Palestine Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_058
+    name: Palestine Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_059
+    name: Palestine Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_060
+    name: Palestine Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_061
+    name: Palestine Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_062
+    name: Palestine Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_063
+    name: Palestine Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_064
+    name: Palestine Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_065
+    name: Palestine Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_066
+    name: Palestine Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_067
+    name: Palestine Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_068
+    name: Palestine Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_069
+    name: Palestine Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_070
+    name: Palestine Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_071
+    name: Palestine Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_072
+    name: Palestine Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_073
+    name: Palestine Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_074
+    name: Palestine Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_075
+    name: Palestine Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_076
+    name: Palestine Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_077
+    name: Palestine Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_078
+    name: Palestine Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_079
+    name: Palestine Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_080
+    name: Palestine Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_081
+    name: Palestine Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_082
+    name: Palestine Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_083
+    name: Palestine Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_084
+    name: Palestine Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_085
+    name: Palestine Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_086
+    name: Palestine Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_087
+    name: Palestine Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_088
+    name: Palestine Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_089
+    name: Palestine Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_090
+    name: Palestine Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_091
+    name: Palestine Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_092
+    name: Palestine Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_093
+    name: Palestine Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_094
+    name: Palestine Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_095
+    name: Palestine Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_096
+    name: Palestine Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_097
+    name: Palestine Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_098
+    name: Palestine Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_099
+    name: Palestine Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_100
+    name: Palestine Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_101
+    name: Palestine Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_102
+    name: Palestine Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_103
+    name: Palestine Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_104
+    name: Palestine Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_105
+    name: Palestine Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_106
+    name: Palestine Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_107
+    name: Palestine Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_108
+    name: Palestine Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_109
+    name: Palestine Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_110
+    name: Palestine Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_111
+    name: Palestine Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_112
+    name: Palestine Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_113
+    name: Palestine Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_114
+    name: Palestine Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_115
+    name: Palestine Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_116
+    name: Palestine Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_117
+    name: Palestine Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_118
+    name: Palestine Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_119
+    name: Palestine Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_120
+    name: Palestine Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_121
+    name: Palestine Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_122
+    name: Palestine Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_123
+    name: Palestine Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_124
+    name: Palestine Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_125
+    name: Palestine Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_126
+    name: Palestine Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_127
+    name: Palestine Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_128
+    name: Palestine Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_129
+    name: Palestine Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_130
+    name: Palestine Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_131
+    name: Palestine Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_132
+    name: Palestine Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_133
+    name: Palestine Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_134
+    name: Palestine Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_135
+    name: Palestine Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_136
+    name: Palestine Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_137
+    name: Palestine Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_138
+    name: Palestine Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_139
+    name: Palestine Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_140
+    name: Palestine Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_141
+    name: Palestine Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_142
+    name: Palestine Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_143
+    name: Palestine Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_144
+    name: Palestine Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_145
+    name: Palestine Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_146
+    name: Palestine Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_147
+    name: Palestine Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_148
+    name: Palestine Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_149
+    name: Palestine Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_150
+    name: Palestine Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_151
+    name: Palestine Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_152
+    name: Palestine Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_153
+    name: Palestine Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_154
+    name: Palestine Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_155
+    name: Palestine Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_156
+    name: Palestine Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_157
+    name: Palestine Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_158
+    name: Palestine Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_159
+    name: Palestine Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_160
+    name: Palestine Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_161
+    name: Palestine Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_162
+    name: Palestine Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_163
+    name: Palestine Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_164
+    name: Palestine Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_165
+    name: Palestine Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_166
+    name: Palestine Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_167
+    name: Palestine Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_168
+    name: Palestine Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_169
+    name: Palestine Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ps_170
+    name: Palestine Agent 170
+    status: ACTIVE_SCAFFOLD
