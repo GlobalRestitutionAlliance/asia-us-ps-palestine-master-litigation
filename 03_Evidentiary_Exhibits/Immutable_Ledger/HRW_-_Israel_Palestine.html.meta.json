@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/middle-east/north-africa/israel/palestine",
+  "final_url": "https://www.hrw.org/middle-east/north-africa/israel/palestine",
+  "title": "HRW - Israel Palestine",
+  "fetched_at": "2026-11-23T15:26:21.545889Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 205864,
+  "sha256": "9e6e359e1d19dd3f51ab2a852ae996281d529d8854c74b4137a80ee758c1f36d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

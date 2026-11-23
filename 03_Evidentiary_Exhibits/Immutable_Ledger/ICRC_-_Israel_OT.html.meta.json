@@ -1,0 +1,19 @@
+{
+  "url": "https://www.icrc.org/en/where-we-work/middle-east/israel-and-occupied-territories",
+  "final_url": "https://www.icrc.org/en/where-we-work/israel-and-occupied-territories",
+  "title": "ICRC - Israel OT",
+  "fetched_at": "2026-11-23T15:26:22.833698Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 88344,
+  "sha256": "1a15a2e36a96eacf21ca4c55f8704ac579d34de1fbabd2ff273cf7d20c16ea3e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Possible challenge/empty capture; pending recapture.",
+  "redaction_note": "Redacted Mapbox token from public captured HTML before push; hash/bytes updated."
+}
